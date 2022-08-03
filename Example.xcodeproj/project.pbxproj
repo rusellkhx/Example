@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		7F20751C289A46EE0007209F /* PhotoView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7F20751B289A46EE0007209F /* PhotoView.swift */; };
 		7F20751E289A53CA0007209F /* AppConstants.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7F20751D289A53CA0007209F /* AppConstants.swift */; };
+		7F20752A289A766D0007209F /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = 7F207529289A766D0007209F /* .gitignore */; };
 		7F2DFCB82897B7F400702E38 /* UIImageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7F2DFCB72897B7F400702E38 /* UIImageView.swift */; };
 		7F39C1292896AE6F0094F370 /* NetworkServive.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7F39C1282896AE6F0094F370 /* NetworkServive.swift */; };
 		7F39C12C2896AEF20094F370 /* DetailsItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7F39C12B2896AEF20094F370 /* DetailsItem.swift */; };
@@ -51,6 +52,7 @@
 /* Begin PBXFileReference section */
 		7F20751B289A46EE0007209F /* PhotoView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PhotoView.swift; sourceTree = "<group>"; };
 		7F20751D289A53CA0007209F /* AppConstants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppConstants.swift; sourceTree = "<group>"; };
+		7F207529289A766D0007209F /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 		7F2DFCB72897B7F400702E38 /* UIImageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIImageView.swift; sourceTree = "<group>"; };
 		7F39C1282896AE6F0094F370 /* NetworkServive.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NetworkServive.swift; sourceTree = "<group>"; };
 		7F39C12B2896AEF20094F370 /* DetailsItem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailsItem.swift; sourceTree = "<group>"; };
@@ -217,6 +219,7 @@
 		7F4771B82891155500E3E7AD = {
 			isa = PBXGroup;
 			children = (
+				7F207529289A766D0007209F /* .gitignore */,
 				7F4771C32891155500E3E7AD /* Example */,
 				7F4771C22891155500E3E7AD /* Products */,
 				7F9D08652898577300A1E0F4 /* Frameworks */,
@@ -385,6 +388,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				7F4771D12891155700E3E7AD /* LaunchScreen.storyboard in Resources */,
+				7F20752A289A766D0007209F /* .gitignore in Resources */,
 				7F4771CE2891155700E3E7AD /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
